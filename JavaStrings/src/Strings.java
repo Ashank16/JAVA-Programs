@@ -1,20 +1,16 @@
-
 public class Strings {
     // Concatenates to String 
-    public static void concat1(String s1) 
-    { 
+    public static void concat1(String s1) { 
         s1 = s1 + "Juyal"; 
     } 
   
     // Concatenates to StringBuilder 
-    public static void concat2(StringBuilder s2) 
-    { 
+    public static void concat2(StringBuilder s2) { 
         s2.append("Juyal"); 
     } 
   
     // Concatenates to StringBuffer 
-    public static void concat3(StringBuffer s3) 
-    { 
+    public static void concat3(StringBuffer s3) { 
         s3.append("Juyal"); 
     } 
     

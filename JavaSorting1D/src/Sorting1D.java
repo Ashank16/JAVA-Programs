@@ -3,7 +3,7 @@ public class Sorting1D {
 
     public static void main(String[] args) {
         //Initialize array     
-        int [] arr = new int [] {5, 2, 8, 7, 1};     
+        int [] arr = new int [] {5, 2, 8, 7, 1, 3};     
         int temp = 0;    
             
         //Displaying elements of original array    
