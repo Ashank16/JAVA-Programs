@@ -17,7 +17,7 @@ public class Queue_Demo {
         
         System.out.println("Elements present in the Queue : " + pQueue);
         // Printing the top element and removing it from the PriorityQueue container  
-        System.out.println("Printing Top element of the the PriorityQueue container and then removing it : " + pQueue.poll()); 
+        System.out.println("Printing Top element of the PriorityQueue container and then removing it : " + pQueue.poll()); 
         
         System.out.println("Elements present in the Queue : " + pQueue);
         // Printing the top element again 
